@@ -8,7 +8,7 @@ Use `Tools->Invoke CleanTable` while debugging to avoid BSOD.
 
 ## About
 
-Provides a button in VS to run `CleanTable.exe` and then stop debugging.  When Kace is being debugged, and the page table's been modified, use this method to stop debugging safely, avoiding a BSOD.
+Provides a button in VS to run `CleanTable.exe` and then stop debugging.  When Kace is being debugged and the page table's been modified, use this method to stop debugging safely avoiding a BSOD.
 
 ## Problem
 
